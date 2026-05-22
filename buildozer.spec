@@ -13,7 +13,7 @@ requirements = python3,kivy==2.3.0,camera4kivy,flask,zeroconf,opencv-python-head
 orientation = portrait
 fullscreen = 1
 
-android.permissions = CAMERA, INTERNET, ACCESS_WIFI_STATE, ACCESS_NETWORK_STATE, FOREGROUND_SERVICE
+android.permissions = CAMERA,INTERNET,ACCESS_WIFI_STATE,ACCESS_NETWORK_STATE,FOREGROUND_SERVICE
 
 android.api = 33
 android.minapi = 29
